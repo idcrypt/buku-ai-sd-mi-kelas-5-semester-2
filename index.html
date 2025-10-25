@@ -278,7 +278,7 @@
 
       <div class="goto">
         <label style="color:var(--muted)">Ke halaman</label>
-        <input id="gotoInput" type="number" min="1" max="70" value="1">
+        <input id="gotoInput" type="number" min="1" max="75" value="1">
         <button id="gotoBtn" class="btn">Go</button>
       </div>
     </div>
@@ -309,11 +309,11 @@
     /* =========================
        CONFIG & STATE
        ========================= */
-    const TOTAL_PAGES = 70;     // sesuaikan kalau berubah
+    const TOTAL_PAGES = 75;     // sesuaikan kalau berubah
     const PER_BLOCK = 10;        // pagination per block
     const A4_ASPECT = 1.41421356; // tinggi/lebar ≈ 297/210
-    const MAX_BOOK_WIDTH = 70; // maksimal lebar book (adjustable)
-    const PRELOAD_COUNT = 70;    // halaman pertama yang dipreload sebelum sembunyikan loader
+    const MAX_BOOK_WIDTH = 75; // maksimal lebar book (adjustable)
+    const PRELOAD_COUNT = 75;    // halaman pertama yang dipreload sebelum sembunyikan loader
 
     let currentPage = 1;         // halaman aktif (1-based)
     let currentBlock = 1;
