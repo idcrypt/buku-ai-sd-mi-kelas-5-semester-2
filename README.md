@@ -1,4 +1,5 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
+# BUKU AI SD/MI Kelas 5 Semester 2:Belajar Logika, Algoritma, Coding, dan AI
+
 Aolia Ikhwanudin
 Onno W. Purbo
 Institut Teknologi Tangerang Selatan (ITTS)
